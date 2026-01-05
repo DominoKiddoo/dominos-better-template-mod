@@ -1,5 +1,5 @@
-# $MOD_NAME
-This is where $MOD_DEVELOPER makes a mod.
+# Template Mod
+This is where the mod.
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 

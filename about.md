@@ -1,3 +1,2 @@
-# $MOD_NAME
+# Template Mod
 
-$MOD_DESCRIPTION
