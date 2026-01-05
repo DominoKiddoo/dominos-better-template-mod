@@ -1,3 +1,3 @@
-# Better Template Mod
+# $MOD_NAME
 
-Add your mods description here.
+$MOD_DESCRIPTION
